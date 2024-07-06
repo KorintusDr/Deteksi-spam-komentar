@@ -37,4 +37,3 @@ Untuk menjalankan proyek ini, pastikan komputer Anda memiliki:
 Untuk menggunakan proyek ini:
 1. Pastikan semua persyaratan terpenuhi.
 2. Jalankan script pada file Python yang disediakan (`main.ipynb`).
-3. Ikuti langkah-langkah yang terdapat dalam kode untuk analisis dan evaluasi model.
